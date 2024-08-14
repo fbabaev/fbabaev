@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Firdavskhon Babaev</h1>
 <h3 align="center">Computer Science & Math at Dartmouth College.</h3>
 
+- 🌱 I have experience developing a search engine, working on a multiplayer game called Nuggets, and creating a Dartmouth maps connector project. In the Nuggets game, I focused on designing game logic and implementing real-time player interactions.
+- 💻 In my free time, my friends and I are working on a startup related to immigration and tech/AI, aiming to make the immigration process easier for immigrants.
+- 💞️ I'm looking for Software Engineering Internships for 2025.
+- 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
 - 📫 How to reach me **firdavskhon.babaev.27@dartmouth.edu**
 
 <h3 align="left">Connect with me:</h3>
