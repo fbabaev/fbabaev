@@ -8,7 +8,7 @@
 - 💞️ I'm looking for Software Engineering Internships for 2025.
 - 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
 
-Connect with me:
+**Connect with me:**
 
 <p align="left">
   <a href="mailto:firdavskhonbabaev@gmail.com" target="_blank" rel="noreferrer">
