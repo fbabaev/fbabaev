@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Firdavskhon Babaev</h1>
-<h3 align="center">A passionate Computer Science student at Dartmouth College.</h3>
+<h3 align="center">Computer Science & Math at Dartmouth College.</h3>
 
 - 📫 How to reach me **firdavskhon.babaev.27@dartmouth.edu**
 
