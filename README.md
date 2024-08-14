@@ -15,10 +15,8 @@
   <a href="https://www.linkedin.com/in/firdavskhon" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40" height="40"/>
-  </a>
 </p>
+
 
 
 ## Programming Languages
