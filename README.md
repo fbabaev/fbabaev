@@ -5,13 +5,21 @@
 - 💻 In my free time, my friends and I are working on a startup related to immigration and tech/AI, aiming to make the immigration process easier for immigrants.
 - 💞️ I'm looking for Software Engineering Internships for 2025.
 - 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
-- 📫 How to reach me **firdavskhon.babaev.27@dartmouth.edu**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/firdavskhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdavskhon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26825599/firdavskhon-babaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26825599/firdavskhon-babaev" height="30" width="40" /></a>
+  <a href="mailto:firdavskhonbabaev@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/firdavskhon" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40" height="40"/>
+  </a>
 </p>
+
 
 ## Programming Languages
 <p align="left"> 
