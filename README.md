@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdavskhon Babaev</h1>
-<h3 align="center">Computer Science & Math at Dartmouth College.</h3>
+<h3 align="center">Computer Science & Math at Dartmouth College</h3>
 
 ## 🚀About Me 
 
