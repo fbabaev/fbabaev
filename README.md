@@ -4,7 +4,7 @@
 ## 🚀About Me 
 
 - 🌱 I have experience developing a search engine, working on a multiplayer game, and creating a Dartmouth maps connector project.
-- 💻 In my free time, my friends and I are working on a startup related to immigration and tech/AI, aiming to make the immigration process easier for immigrants.
+- I enjoy exploring new coding challenges and working on creative tech projects with friends in my free time.
 - 💞️ I'm looking for Software Engineering Internships for 2025.
 - 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
 ### Connect with me:
