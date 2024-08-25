@@ -5,7 +5,6 @@
 
 - 🌱 I have experience developing a search engine, working on a multiplayer game, and creating a Dartmouth maps connector.
 - I enjoy exploring new coding challenges and working on creative tech projects with friends in my free time.
-- 💞️ I'm looking for Software Engineering Internships for 2025.
 - 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
 ### Connect with me:
 
