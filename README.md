@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavskhon Babaev</h1>
 <h3 align="center">Computer Science & Math at Dartmouth College</h3>
 
-## 🚀About M
+## 🚀About Me
 
 - 🌱 I have experience developing a search engine, working on a multiplayer game, and creating a Dartmouth maps connector.
 - I enjoy exploring new coding challenges and working on creative tech projects with friends in my free time.
