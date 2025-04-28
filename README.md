@@ -4,7 +4,6 @@
 ## 🚀About Me
 
 - I enjoy exploring new coding challenges and working on creative tech projects with friends in my free time.
-- 📫 I'm interested in collaborating on open-source projects, especially those related to AI, web development, or data analysis.
 ### Connect with me:
 
 <p align="left">
