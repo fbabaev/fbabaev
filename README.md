@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Firdavs Babaev</h1>
-<h3 align="center">Computer Science at Dartmouth College</h3>
-
 ### Connect with me:
 
 <p align="left">
